@@ -1,13 +1,13 @@
 📁 Dataset
-•Source: Kaggle – UK Online Retail Dataset
-•Records: ~500,000 transactions
-•Period: 2009–2011
+• Source: Kaggle – UK Online Retail Dataset
+• Records: ~500,000 transactions
+• Period: 2009–2011
 
 🛠️ Tools & Technologies
-•Power BI Desktop
-•Power Query – Data cleaning & transformation
-•DAX – Measures & KPIs
-•Excel / CSV – Raw data source
+• Power BI Desktop
+• Power Query – Data cleaning & transformation
+• DAX – Measures & KPIs
+• Excel / CSV – Raw data source
 
 🧹 Data Cleaning & Preparation
 •Removed cancelled and invalid transactions
@@ -28,7 +28,7 @@
 • Top 10 Best-Selling Products
 • Revenue by Country
 • Slicers: Year, Country
-•All visuals dynamically update based on slicer selections.
+• All visuals dynamically update based on slicer selections.
 
 🧠 Key Insights
 • Sales show a strong upward trend over time
