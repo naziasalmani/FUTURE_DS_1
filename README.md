@@ -10,7 +10,7 @@
 • Excel / CSV – Raw data source
 
 🧹 Data Cleaning & Preparation
-•Removed cancelled and invalid transactions
+• Removed cancelled and invalid transactions
 • Fixed data types (Date, Currency, Quantity)
 • Created calculated column for Revenue
 • Merged yearly datasets (2009–2010 & 2010–2011)
