@@ -1,0 +1,20 @@
+# Power BI
+*.pbix.autosave
+
+# Excel temporary files
+~$*.xlsx
+~$*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python / Jupyter (if any)
+__pycache__/
+*.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
