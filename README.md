@@ -1,5 +1,6 @@
 📁 Dataset
 • Source: Kaggle – UK Online Retail Dataset
+• Link: https://www.kaggle.com/datasets/carrie1/ecommerce-data 
 • Records: ~500,000 transactions
 • Period: 2009–2011
 
